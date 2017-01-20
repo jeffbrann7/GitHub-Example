@@ -6,6 +6,9 @@ int main()
 {
     // Variable declarations
     string name, color;
+	string name;
+	string color;
+	string adjective;
 
     // Output and input
     cout << "Hello, what is your name? ";
